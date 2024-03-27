@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Internpedia_Task_2/static/css/main.44cbed0e.css",
+    "main.js": "/Internpedia_Task_2/static/js/main.862841fa.js",
+    "static/js/453.97127cc3.chunk.js": "/Internpedia_Task_2/static/js/453.97127cc3.chunk.js",
+    "static/media/Weather.jpg": "/Internpedia_Task_2/static/media/Weather.a089d87ba11e1a4c45a8.jpg",
+    "index.html": "/Internpedia_Task_2/index.html",
+    "main.44cbed0e.css.map": "/Internpedia_Task_2/static/css/main.44cbed0e.css.map",
+    "main.862841fa.js.map": "/Internpedia_Task_2/static/js/main.862841fa.js.map",
+    "453.97127cc3.chunk.js.map": "/Internpedia_Task_2/static/js/453.97127cc3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.44cbed0e.css",
+    "static/js/main.862841fa.js"
+  ]
+}
